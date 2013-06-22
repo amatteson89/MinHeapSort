@@ -1,0 +1,21 @@
+Andrew Matteson 00495489
+
+
+
+Included with these files is a 'makefile'
+
+
+To compile and run the code to to make the random number file
+	Type the following and hit enter
+	1. make random
+	2. ./randomGen
+
+To compile the main algorithm:
+	Traverse your terminal (assuming some sort of linux distro is used) to the source code folder
+ type the following then hit enter
+	1. make
+	2. ./a.out
+
+Note: 
+	You need the random number file for the main program to run.
+	I personally changed the size of my number file every time and re ran the random number generator file.
